@@ -1,0 +1,4 @@
+Flask>=3.0
+Pillow>=10.0
+# Install a PyTorch build compatible with your NVIDIA driver from https://pytorch.org/get-started/locally/
+# torchvision version must match torch.
